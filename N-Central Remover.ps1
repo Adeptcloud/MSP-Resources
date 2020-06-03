@@ -1,13 +1,13 @@
 ﻿<#
 	.SYNOPSIS
-	SentinelOne Download and Install.
+	N-Central unisntall and clean up all registry and system files.
 	.DESCRIPTION
 
 	.NOTES
 	Version:        1.0
 	Author:         Denis Zhirovetskiy and Trevor Ruppert
 	Update Date:    5/17/2020
-	Purpose/Change: SentinelOne Installer
+	Purpose/Change: N-Central Remover
 	Comapny:        Adeptcore, Inc.
 #>
 
